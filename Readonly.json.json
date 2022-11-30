@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "fullName": "vasu",
+    "address": "3 waterfoot road",
+    "phoneNumber": "9159837748",
+    "email": "vasu123@email.com"
+  },
+  {
+    "id": 2,
+    "fullName": "murali",
+    "address": "4 tall town",
+    "phoneNumber": "91590733353",
+    "email": "murail66489@email.com"
+  },
+  {
+    "id": 3,
+    "fullName": "dinesh",
+    "address": "11 lesly road",
+    "phoneNumber": "788-962-7516",
+    "email": "ammadinesh@email.com"
+  },
+  {
+    "id": 4,
+    "fullName": "chouthri",
+    "address": "333 miltown manor",
+    "phoneNumber": "9195089263",
+    "email": "vasuchouthri811@email.com"
+  },
+  {
+    "id": 5,
+    "fullName": "suriya",
+    "address": "99 blue acres",
+    "phoneNumber": "915988345",
+    "email": "suroya234@email.com"
+  }
+]
